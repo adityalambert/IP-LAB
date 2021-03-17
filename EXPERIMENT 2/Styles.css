@@ -1,0 +1,13 @@
+aside
+{   
+    font-style: italic;
+    float : right;
+    padding :5px;
+    background-color: bisque;
+    width:500px;
+}
+
+footer
+{
+    text-align:center;
+}
